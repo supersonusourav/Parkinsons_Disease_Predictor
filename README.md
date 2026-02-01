@@ -1,4 +1,4 @@
-# Parlinson's Disease Predictor [App Link](https://parkinsonsdisease-predictor.streamlit.app/)
+# Parkinson's Disease Predictor [App Link](https://parkinsonsdisease-predictor.streamlit.app/)
 
 <img width="1867" height="808" alt="image" src="https://github.com/user-attachments/assets/8b18796e-797e-403b-84b2-61307aa9e94c" />
 <img width="1815" height="824" alt="image" src="https://github.com/user-attachments/assets/7e2d9641-de6e-4713-937b-bd91db66d60a" />
